@@ -1,2 +1,4 @@
 # git215_setup
-Module 1 Homework
+
+## Author: Vincent Rosa
+## Module 1 Homework
